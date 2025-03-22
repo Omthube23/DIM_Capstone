@@ -15,9 +15,9 @@ create_nat_gateway = true
 destination_cidr_block = "0.0.0.0/0"
 
 #tags
-owner       = "techiescamp"
+owner       = "OM-Thube"
 environment = "dev"
-cost_center = "techiescamp-commerce"
+cost_center = "OM-commerce"
 application = "ecommerce"
 
 
